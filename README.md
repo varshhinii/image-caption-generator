@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Image Caption Generator
 
 A neural network to generate captions for an image using CNN and RNN with BEAM Search.
@@ -162,3 +163,6 @@ Required libraries for Python along with their version numbers used while making
 	<li><a href="https://arxiv.org/abs/1703.09137">Where to put the Image in an Image Caption Generator</a> - Marc Tanti, Albert Gatt, Kenneth P. Camilleri</li>
 	<li><a href="https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/">How to Develop a Deep Learning Photo Caption Generator from Scratch</a></li>
 </ul>
+=======
+# image-caption-generator
+>>>>>>> 200f424f9f70668a6dd22db6dc2b2cc8771a85b6
